@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-risefr-dev-110849-authRole",
+      "UnauthRoleArn": "arn:aws:iam::854413985026:role/amplify-risefr-dev-110849-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::854413985026:role/amplify-risefr-dev-110849-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-risefr-dev-110849-deployment",
+      "UnauthRoleName": "amplify-risefr-dev-110849-unauthRole",
+      "StackName": "amplify-risefr-dev-110849",
+      "StackId": "arn:aws:cloudformation:us-west-2:854413985026:stack/amplify-risefr-dev-110849/ba3bd180-8a07-11ed-94b3-0254fd741615",
+      "AmplifyAppId": "d1patuiuaubvx4"
+    }
+  }
+}

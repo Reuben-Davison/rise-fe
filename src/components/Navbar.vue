@@ -3,7 +3,7 @@
        <button class="bg-blue-700 rounded-full px-3 ">
             Home 
        </button> 
-       <button class="bg-blue-700 rounded-full px-3 ">
+       <button class="bg-blue-700 rounded-lg px-3 hover:bg-blue-400">
             New
        </button> 
     </nav>
@@ -15,5 +15,5 @@ export default {
 }
 </script>
 <style lang="">
-    
+
 </style>
