@@ -2,7 +2,7 @@
   <NavBar/>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <h2 class="text-3xl text-left">Missing my little cutie  </h2>
+  <h2 class="text-3xl text-left">Hello sherman  </h2>
 </template>
 
 <script>
