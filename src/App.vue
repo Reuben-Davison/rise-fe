@@ -1,8 +1,8 @@
 <template>
   <NavBar/>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Rise logo" src="./assets/rise_logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <h2 class="text-3xl text-3lg text-center text-blue-500">Hello sherman  </h2>
+  <h2 class="text-3xl text-3lg text-center text-blue-500">This site is currently under construction  </h2>
 </template>
 
 <script>
